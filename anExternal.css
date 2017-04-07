@@ -1,0 +1,24 @@
+/* anExternal.css */
+body {
+ background-color: ghostwhite;
+ color: black;
+}
+h1 {
+ color:red;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+p {
+ background-color: #FFFF33;
+ color: #333300;
+ text-align: right;
+ border: 3px groove #FFFF33;
+}
+img {
+    border: 2px slateblue;
+    border-radius: 10px
+}
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
